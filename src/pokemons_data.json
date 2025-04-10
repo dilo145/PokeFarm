@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Pikachu",
+    "level": 12,
+    "type": "Electric",
+    "experience": 230,
+    "gender": "Male"
+  },
+  {
+    "name": "Charmander",
+    "level": 8,
+    "type": "Fire",
+    "experience": 160,
+    "gender": "Female"
+  },
+  {
+    "name": "Squirtle",
+    "level": 10,
+    "type": "Water",
+    "experience": 180,
+    "gender": "Male"
+  },
+  {
+    "name": "Bulbasaur",
+    "level": 9,
+    "type": "Plant",
+    "experience": 120,
+    "gender": "Female"
+  },
+  {
+    "name": "Jigglypuff",
+    "level": 6,
+    "type": "Normal",
+    "experience": 80,
+    "gender": "Female"
+  },
+  {
+    "name": "Zubat",
+    "level": 7,
+    "type": "Poison",
+    "experience": 90,
+    "gender": "Male"
+  },
+  {
+    "name": "Growlithe",
+    "level": 11,
+    "type": "Fire",
+    "experience": 210,
+    "gender": "Male"
+  },
+  {
+    "name": "Magikarp",
+    "level": 5,
+    "type": "Water",
+    "experience": 60,
+    "gender": "Female"
+  },
+  {
+    "name": "Geodude",
+    "level": 13,
+    "type": "Rock",
+    "experience": 270,
+    "gender": "Male"
+  },
+  {
+    "name": "Psyduck",
+    "level": 9,
+    "type": "Psychic",
+    "experience": 150,
+    "gender": "Female"
+  },
+  {
+    "name": "Pidgey",
+    "level": 8,
+    "type": "Flying",
+    "experience": 130,
+    "gender": "Male"
+  },
+  {
+    "name": "Caterpie",
+    "level": 3,
+    "type": "Bug",
+    "experience": 20,
+    "gender": "Female"
+  },
+  {
+    "name": "Machop",
+    "level": 14,
+    "type": "Fighting",
+    "experience": 290,
+    "gender": "Male"
+  },
+  {
+    "name": "Gastly",
+    "level": 16,
+    "type": "Ghost",
+    "experience": 320,
+    "gender": "Female"
+  },
+  {
+    "name": "Dragonite",
+    "level": 45,
+    "type": "Dragon",
+    "experience": 800,
+    "gender": "Male"
+  },
+  {
+    "name": "Lapras",
+    "level": 30,
+    "type": "Ice",
+    "experience": 600,
+    "gender": "Female"
+  },
+  {
+    "name": "Eevee",
+    "level": 6,
+    "type": "Normal",
+    "experience": 75,
+    "gender": "Female"
+  },
+  {
+    "name": "Meowth",
+    "level": 7,
+    "type": "Normal",
+    "experience": 85,
+    "gender": "Male"
+  },
+  {
+    "name": "Voltorb",
+    "level": 9,
+    "type": "Electric",
+    "experience": 110,
+    "gender": "Female"
+  },
+  {
+    "name": "Aqua Kawk",
+    "level": 18,
+    "type": "Water",
+    "experience": 350,
+    "gender": "Male"
+  }
+]
